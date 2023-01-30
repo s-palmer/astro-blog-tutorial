@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My Third Blog Post'
-pubDate: 2023-01-29
-description: 'This is the third post of my new Astro blog.'
+title: 'My Fourth Blog Post'
+pubDate: 2023-01-30
+description: 'This is the fourth post of my new Astro blog.'
 author: 'Astro Learner'
 image:
     url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 

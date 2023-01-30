@@ -1,16 +1,14 @@
 ---
-title: 'My Second Blog Post'
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "My Second Blog Post"
 pubDate: 2023-01-29
-description: 'This is the second post of my new Astro blog.'
-author: 'Astro Learner'
+description: "This is the second post of my new Astro blog."
+author: "Astro Learner"
 image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
-    alt: 'The Astro logo with the word One.'
+  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
+  alt: "The Astro logo with the word One."
 tags: ["astro", "blogging", "learning in public"]
 ---
-# My Second Blog Post
-
-Published on: 2023-01-29
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
